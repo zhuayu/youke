@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="255px" viewBox="0 0 347 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>pic1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.7%" y="-6.5%" width="109.4%" height="113.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0.0659480716" y="0.537834432" width="160.2" height="106.8" rx="2.88"></rect>
+        <filter x="-3.1%" y="-3.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0.0659480716" y="0.537834432" width="160.2" height="106.8" rx="2.88"></rect>
+        <filter x="-3.1%" y="-3.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0.0659480716" y="0.537834432" width="160.2" height="106.8" rx="2.88"></rect>
+        <filter x="-3.1%" y="-3.7%" width="106.2%" height="109.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-238.000000, -2249.000000)">
+            <g id="progress" transform="translate(101.000000, 1245.000000)">
+                <g id="step4" transform="translate(137.000000, 1004.000000)">
+                    <g id="pic1" filter="url(#filter-1)">
+                        <rect id="Rectangle" fill="#F8F8FA" x="0" y="0" width="339" height="247" rx="10"></rect>
+                        <g id="Group-3" transform="translate(171.000000, 14.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M12.9846634,30.2828965 L137.184663,30.2828965 L137.184663,36.7628965 L12.9846634,36.7628965 L12.9846634,30.2828965 Z M12.9846634,52.6028965 L137.184663,52.6028965 L137.184663,59.0828965 L12.9846634,59.0828965 L12.9846634,52.6028965 Z M12.9846634,63.4028965 L95.7846634,63.4028965 L95.7846634,69.8828965 L12.9846634,69.8828965 L12.9846634,63.4028965 Z M12.9846634,41.0828965 L111.837725,41.0828965 L111.837725,47.5628965 L12.9846634,47.5628965 L12.9846634,41.0828965 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程大纲" font-family="PingFangSC-Regular, PingFang SC" font-size="10.08" font-weight="normal" fill="#2E2F55">
+                                <tspan x="13.0022477" y="21.0594352">课程大纲</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="13.0322524" y="77.5726744" width="43.8" height="18" rx="2.16"></rect>
+                            <text id="检验" font-family="PingFangSC-Regular, PingFang SC" font-size="8.64" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="24.4329832" y="89.5936013">检验</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(6.000000, 14.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <path d="M12.9846634,30.2828965 L137.184663,30.2828965 L137.184663,36.7628965 L12.9846634,36.7628965 L12.9846634,30.2828965 Z M12.9846634,52.6028965 L137.184663,52.6028965 L137.184663,59.0828965 L12.9846634,59.0828965 L12.9846634,52.6028965 Z M12.9846634,63.4028965 L95.7846634,63.4028965 L95.7846634,69.8828965 L12.9846634,69.8828965 L12.9846634,63.4028965 Z M12.9846634,41.0828965 L111.837725,41.0828965 L111.837725,47.5628965 L12.9846634,47.5628965 L12.9846634,41.0828965 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程大纲" font-family="PingFangSC-Regular, PingFang SC" font-size="10.08" font-weight="normal" fill="#2E2F55">
+                                <tspan x="13.0022477" y="21.0594352">课程大纲</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="13.0322524" y="77.5726744" width="43.8" height="18" rx="2.16"></rect>
+                            <text id="检验" font-family="PingFangSC-Regular, PingFang SC" font-size="8.64" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="24.4329832" y="89.5936013">检验</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(171.000000, 127.000000)" fill="#D8DEFF" stroke="#6E81EB" stroke-width="2">
+                            <rect id="Rectangle" x="1.06594807" y="1.53783443" width="158.2" height="104.8" rx="2.88"></rect>
+                        </g>
+                        <g id="Group-3" transform="translate(136.733257, 151.994928) rotate(-345.000000) translate(-136.733257, -151.994928) translate(56.233257, 97.994928)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            </g>
+                            <path d="M12.9846634,30.2828965 L137.184663,30.2828965 L137.184663,36.7628965 L12.9846634,36.7628965 L12.9846634,30.2828965 Z M12.9846634,52.6028965 L137.184663,52.6028965 L137.184663,59.0828965 L12.9846634,59.0828965 L12.9846634,52.6028965 Z M12.9846634,63.4028965 L95.7846634,63.4028965 L95.7846634,69.8828965 L12.9846634,69.8828965 L12.9846634,63.4028965 Z M12.9846634,41.0828965 L111.837725,41.0828965 L111.837725,47.5628965 L12.9846634,47.5628965 L12.9846634,41.0828965 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程大纲" font-family="PingFangSC-Regular, PingFang SC" font-size="10.08" font-weight="normal" fill="#2E2F55">
+                                <tspan x="13.0022477" y="21.0594352">课程大纲</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="13.0322524" y="77.5726744" width="43.8" height="18" rx="2.16"></rect>
+                            <text id="检验" font-family="PingFangSC-Regular, PingFang SC" font-size="8.64" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="24.4329832" y="89.5936013">检验</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

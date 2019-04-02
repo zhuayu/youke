@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="250px" viewBox="0 0 1400 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>corperate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1400" height="250"></rect>
+        <polygon id="path-3" points="0 0 174 0 174 291 0 291"></polygon>
+        <linearGradient x1="100%" y1="67.3220947%" x2="0%" y2="32.6565878%" id="linearGradient-5">
+            <stop stop-color="#FBAB7E" offset="0%"></stop>
+            <stop stop-color="#F7CE68" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(0.000000, -2910.000000)">
+            <g id="corperate" transform="translate(-16.000000, 2910.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#394BCD" x="0.5" y="0.5" width="1408" height="237"></rect>
+                <g id="Group-Copy" transform="translate(16.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#394BCD" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(192.000000, 148.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Duplicate-control" stroke="none" fill="none"></g>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="19.5 0 39 32 0 32"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="19.5 36 39 68 0 68"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="19.5 73 39 105 0 105"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="63.5 0 83 32 44 32"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="63.5 36 83 68 44 68"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="63.5 73 83 105 44 105"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="106.5 0 126 32 87 32"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="106.5 36 126 68 87 68"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="106.5 73 126 105 87 105"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="150.5 0 170 32 131 32"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="150.5 36 170 68 131 68"></polygon>
+                            <polygon id="Triangle" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)" points="150.5 73 170 105 131 105"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(7.000000, 50.000000)">
+                    <path d="M65,0.00279788838 L65,125.997202 C64.7996043,125.999066 64.5989856,126 64.3981481,126 C29.4968202,126 1.2037037,97.7939392 1.2037037,63 C1.2037037,28.2060608 29.4968202,0 64.3981481,0 C64.5989856,0 64.7996043,0.000934002572 65,0.00279788838 Z" id="Path" fill="#3F55D3" opacity="0.847795759" transform="translate(33.101852, 63.000000) scale(-1, 1) translate(-33.101852, -63.000000) "></path>
+                    <path d="M0.650250657,18.0412303 C24.6765772,19.0144663 43.7222222,38.8403227 43.7222222,63 C43.7222222,87.1596773 24.676577,106.985534 0.650250504,107.958769 L-5.59259259,108.211648 L-5.59259259,17.788351 L0.650250657,18.0412303 Z" id="Path" stroke="#FEFEFE" stroke-width="12" opacity="0.473423549"></path>
+                    <path d="M25.2777778,38.4071738 L25.2777778,87.5928262 C25.077741,87.5975997 24.8771146,87.6 24.6759259,87.6 C11.0477883,87.6 0,76.5862048 0,63 C0,49.4137952 11.0477883,38.4 24.6759259,38.4 C24.8771146,38.4 25.077741,38.4024003 25.2777778,38.4071738 L25.2777778,38.4071738 Z" id="Path" fill="#FEFEFE" opacity="0.440731957" transform="translate(12.638889, 63.000000) scale(-1, 1) translate(-12.638889, -63.000000) "></path>
+                </g>
+                <path d="M1247,162.725152 L1247,33.2748481 C1251.22538,32.4386011 1255.59519,32 1260.06818,32 C1264.1414,32 1268.12906,32.3637045 1272,33.0601872 L1272,162.939813 C1268.12906,163.636296 1264.1414,164 1260.06818,164 C1255.59519,164 1251.22538,163.561399 1247,162.725152 L1247,162.725152 Z M1238,160 C1222.52521,154.536407 1209.70678,143.455602 1202,129.210193 L1202,66.7898021 C1209.70678,52.5443984 1222.52521,41.4635928 1238,36 L1238,160 Z M1280,36 C1282.75047,36.9025006 1285.42148,37.976265 1288,39.2084515 L1288,157.791568 C1285.42148,159.023734 1282.75047,160.097499 1280,161 L1280,36 Z M1297,44 C1308.56757,52.0192086 1317.43939,63.5937724 1322,77.1232234 L1322,118.876777 C1317.43939,132.406228 1308.56757,143.980791 1297,152 L1297,44 L1297,44 Z" id="Shape" fill="#455BD6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

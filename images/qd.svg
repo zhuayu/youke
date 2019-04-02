@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="74px" viewBox="0 0 78 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.3080357%" y1="12.8720238%" x2="80.8673469%" y2="91.4275085%" id="linearGradient-1">
+            <stop stop-color="#03ACFA" offset="0%"></stop>
+            <stop stop-color="#2543E0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="80.1953125%" y1="74.5%" x2="0%" y2="25.5%" id="linearGradient-2">
+            <stop stop-color="#55ADFF" offset="0%"></stop>
+            <stop stop-color="#F2F7FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.5764803%" y1="100%" x2="39.5764803%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#DDF2FF" offset="0%"></stop>
+            <stop stop-color="#F2FCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-196.000000, -1566.000000)">
+            <g id="path" transform="translate(100.000000, 1354.000000)">
+                <g id="前端" transform="translate(0.000000, 165.000000)">
+                    <g id="logo" transform="translate(91.000000, 42.000000)">
+                        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="84" height="84"></rect>
+                        <path d="M41.75,78.5 C21.4535354,78.5 5,62.0464646 5,41.75 C5,21.4535354 21.4535354,5 41.75,5 C62.0464646,5 78.5,21.4535354 78.5,41.75 C78.5,62.0464646 62.0464646,78.5 41.75,78.5 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="url(#linearGradient-2)" x="19" y="21" width="50" height="35" rx="2"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-3)" x="33" y="31" width="50" height="35" rx="2"></rect>
+                        <path d="M34.5,31 L81.5,31 C82.3284271,31 83,31.6715729 83,32.5 L83,32.5 C83,33.3284271 82.3284271,34 81.5,34 L34.5,34 C33.6715729,34 33,33.3284271 33,32.5 L33,32.5 C33,31.6715729 33.6715729,31 34.5,31 Z" id="Rectangle" fill="#069DF7"></path>
+                        <path d="M20.5,21 L67.5,21 C68.3284271,21 69,21.6715729 69,22.5 L69,22.5 C69,23.3284271 68.3284271,24 67.5,24 L20.5,24 C19.6715729,24 19,23.3284271 19,22.5 L19,22.5 C19,21.6715729 19.6715729,21 20.5,21 Z" id="Rectangle" fill="#0F75F1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>pythone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.3080357%" y1="12.8720238%" x2="80.8673469%" y2="91.4275085%" id="linearGradient-1">
+            <stop stop-color="#03ACFA" offset="0%"></stop>
+            <stop stop-color="#2543E0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-25.0%" y="-25.0%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="130.794318%" x2="39.5764803%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#DDF2FF" offset="0%"></stop>
+            <stop stop-color="#F2FCFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="130.794318%" x2="39.5764803%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#DDF2FF" offset="0%"></stop>
+            <stop stop-color="#F2FCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-508.000000, -1938.000000)" fill-rule="nonzero">
+            <g id="path" transform="translate(100.000000, 1354.000000)">
+                <g id="python" transform="translate(312.000000, 537.000000)">
+                    <g id="pythone" transform="translate(91.000000, 42.000000)">
+                        <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="84" height="84"></rect>
+                        <path d="M41.75,78.5 C21.4535354,78.5 5,62.0464646 5,41.75 C5,21.4535354 21.4535354,5 41.75,5 C62.0464646,5 78.5,21.4535354 78.5,41.75 C78.5,62.0464646 62.0464646,78.5 41.75,78.5 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                        <g id="logo-python" filter="url(#filter-2)" transform="translate(18.000000, 19.000000)">
+                            <path d="M16.1825,23.132 C16.660419,23.0456373 17.1450906,23.0020896 17.63075,23.001875 L17.2405,23 L30.218375,23 C30.78125,23 31.319125,22.922875 31.831875,22.78075 C34.253125,22.110375 36,19.963625 36,17.322875 L36,6.419875 C36,3.315875 33.35625,0.984375 30.213875,0.469125 C28.2225,0.141125 25.306625,-0.00925 23.32775,0.0005 C21.349125,0.01125 19.455125,0.176 17.793125,0.469125 C12.892875,1.322 12,3.116 12,6.419875 L12,10 L24,10 L24,12 L8.1025,12 C3.649,12 0.03525,17.321375 0.000875,23.90525 C0.000625,23.936875 0,23.968375 0,24 C0,25.190375 0.1175,26.34 0.335625,27.4255 C1.331,32.38375 4.431375,36 8.1025,36 L10,36 L10,30.258125 C10,26.90475 12.51825,23.7915 16.1825,23.132 Z M17.457,7.87525 C16.258,7.87525 15.284,6.902125 15.284,5.699875 C15.284,4.491875 16.25575,3.509875 17.457,3.509875 C18.65375,3.509875 19.631875,4.49175 19.631875,5.699875 C19.632,6.902125 18.65575,7.87525 17.457,7.87525 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                            <path d="M47.493875,19.817875 C46.3475,15.252625 43.379125,12 39.8975,12 L38,12 L38,17.084 C38,21.323375 35.21425,24.39325 31.813875,24.919125 C31.4705969,24.9727342 31.1236889,24.9997313 30.77625,24.999875 L17.793875,24.999875 C17.2434598,24.9994004 16.6952641,25.069642 16.16275,25.208875 C13.7725,25.836125 12,27.825 12,30.4045 L12,41.307875 C12,44.411875 15.122125,46.236125 18.185125,47.12675 C21.851,48.193125 25.8435,48.38525 30.230875,47.12675 C33.14375,46.29425 36,44.611625 36,41.307875 L36,38 L24,38 L24,36 L39.8975,36 C43.0525,36 45.785875,33.329375 47.12425,29.431375 C47.68425,27.8005 48,25.955125 48,24 C48,22.529 47.820875,21.12025 47.493875,19.817875 Z M30.483375,39.8525 C31.682125,39.8525 32.656,40.825625 32.656,42.0275 C32.656,43.23375 31.682125,44.217625 30.483375,44.217625 C29.28625,44.217625 28.3085,43.23375 28.3085,42.0275 C28.3085,40.82375 29.28425,39.8525 30.483375,39.8525 L30.483375,39.8525 Z" id="Shape" fill="url(#linearGradient-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

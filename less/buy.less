@@ -1,0 +1,250 @@
+@import url('./common.less');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body,html{
+  min-width: 1200px;
+}
+
+.page-mainer{
+
+  .catalog-section{
+    background: url(../images/catalog-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 650px;
+    padding: 65px 0 55px;
+    border-bottom: 1px solid #dfdfe5;
+    .catalog-title{
+      font-size: 34px;
+      line-height: 32px;
+      color: #2e2f55;
+      margin-bottom: 20px
+    }
+    .catalog-description{
+      font-size: 20px;
+      line-height: 35px;
+      color: #818182;
+      margin-bottom: 65px;
+    }
+    .catalog-second-list{
+      display: flex;
+      justify-content: space-around;
+      width: 1200px;
+      margin: 0 auto;
+      margin-bottom: 50px;
+      .catalog-second-item{
+        font-size: 18px;
+        line-height: 32px;
+        color: #2e2f55;
+        position: relative;
+        cursor: pointer;
+        &.catalog-second-item--active{
+          &:after{
+            position:absolute;
+            content: '';
+            height: 4px;
+            width: 100%;
+            display:inline-block;
+            background: #ff9d33;
+            top: 32px;
+            left: 0;
+            border-radius: 2px;
+          }
+        }
+      }
+    }
+    .catalog-third-container{
+      width: 1200px;
+      margin: 0 auto;
+      height: 290px;
+      .catalog-third-list{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        display: none;
+        &.catalog-third-list--active{
+          display: flex;
+        }
+        .catalog-third-item{
+          display: inline-block;
+          width: 150px;
+          height: 47px;
+          margin-right: 60px;
+          border: 1px solid #dfdfe5;
+          border-radius: 23.5px;
+          text-align: center;
+          line-height: 47px;
+          display: block;
+          margin-bottom: 30px;
+          &:nth-child(6n){
+            margin-right: 0px;
+          }
+          a{
+            font-size: 15px;
+            text-decoration: none;
+            color: #2e2f55;
+            cursor: default;
+          }
+        }
+      }
+    }
+  }
+  .zhiye-section{
+    padding-top: 58px;
+    .container{
+      width: 1200px;
+      margin: 0 auto;
+      text-align: center;
+      .zhiye-title{
+        font-size: 34px;
+        line-height: 32px;
+        color: #2e2f55;
+        margin-bottom: 24px;
+      }
+      .zhiye-desc{
+        font-size: 20px;
+        line-height: 35px;
+        color: #818182;
+        margin-bottom: 74px;
+      }
+      .zhiye-list{
+        height: 697px;
+        width: 1200px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        .zhiye-item{
+          width: 265px;
+          height: 325px;
+          box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.2);
+          padding: 0 25px;
+          margin-bottom:45px;
+          transition: all .5s ease;
+          &:hover{
+            box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3);
+            transition: all .5s ease;
+          }
+          .zhiye-item-photo{
+            height: 157px;
+            padding-top: 36px;
+            .zhiye-item-img{
+              width: 84px;
+              height: 84px;
+            }
+          }
+          .zhiye-item-title{
+            font-size: 18px;
+            line-height: 25px;
+            color: #2e2f55;
+            margin-bottom: 17px;
+          }
+          .zhiye-item-desc{
+            font-size: 13px;
+            line-height: 22px;
+            color: #9797aa;
+            font-weight: 300;
+            margin-bottom: 34px;
+          }
+          .zhiye-item-info{
+            text-align: left;
+            padding-left: 23px;
+            .zhiye-item-number{
+              font-size: 13px;
+              line-height: 18px;
+              color: #2e2f55;
+              position: relative;
+              margin-right: 30px;
+              &:before{
+                position:absolute;
+                content: '';
+                background-image: url(../images/number.svg);
+                display: block;
+                width: 20px;
+                height: 15px;
+                top: 2px;
+                left: -23px;
+              }
+            }
+            .zhiye-item-duration{
+              font-size: 13px;
+              line-height: 18px;
+              color: #2e2f55;
+              position: relative;
+              &:before{
+                position: absolute;
+                content: '';
+                background-image: url(../images/time.svg);
+                background-repeat: no-repeat;
+                display: block;
+                width: 16px;
+                height: 16px;
+                top: 2px;
+                left: -20px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .hot-section{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    .container{
+      width: 1200px;
+      margin: 0 auto;
+      text-align: center;
+      .hot-title{
+        font-size: 34px;
+        line-height: 32px;
+        color: #2e2f55;
+        margin-bottom: 24px;
+      }
+      .hot-desc{
+        font-size: 20px;
+        line-height: 35px;
+        color: #818182;
+        margin-bottom: 60px;
+        font-weight: 400;
+      }
+      .hot-list{
+        display: flex;
+        justify-content: space-between;
+        .hot-item{
+          width: 265px;
+          height: 300px;
+          box-shadow: 0px 0px 1px 0px rgba(0,0,0,.2);
+          transition: all .5s ease;
+          &:hover{
+            box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3);
+            transition: all .5s ease;
+          }
+          .hot-item-photo{
+            width: 265px;
+            height: 144px;
+            .hot-item-img{
+              width: 100%;
+            }
+          }
+          .hot-item-title{
+            font-size: 18px;
+            color: #2e2f55;
+            line-height: 25px;
+            margin-top: 22px;
+            margin-bottom: 17px;
+          }
+          .hot-item-desc{
+            font-size: 13px;
+            line-height: 22px;
+            color: #9797aa;
+            padding: 0 20px;
+          }
+        }
+      }
+    }
+  }
+}

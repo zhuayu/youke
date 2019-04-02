@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="222px" viewBox="0 0 348 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>pic1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="226.8" height="177.6" rx="4.8"></rect>
+        <filter x="-4.4%" y="-4.5%" width="108.8%" height="111.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="9.26062391" y="11.7785108" width="226.8" height="177.6" rx="4.8"></rect>
+        <filter x="-4.4%" y="-4.5%" width="108.8%" height="111.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="226.8" height="177.6" rx="4.8"></rect>
+        <filter x="-4.2%" y="-4.8%" width="108.4%" height="110.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-803.000000, -1394.000000)">
+            <g id="progress" transform="translate(101.000000, 1245.000000)">
+                <g id="step1" transform="translate(137.000000, 128.000000)">
+                    <g id="pic1" transform="translate(570.000000, 0.000000)">
+                        <g id="Group-3" transform="translate(126.500000, 129.830589) rotate(-9.000000) translate(-126.500000, -129.830589) translate(13.000000, 40.830589)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M18,49.2 L194.4,49.2 L194.4,60 L18,60 L18,49.2 Z M18,86.4 L194.4,86.4 L194.4,97.2 L18,97.2 L18,86.4 Z M18,104.4 L135.6,104.4 L135.6,115.2 L18,115.2 L18,104.4 Z M18,67.2 L158.4,67.2 L158.4,78 L18,78 L18,67.2 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程内容" font-family="PingFangSC-Regular, PingFang SC" font-size="16.8" font-weight="normal" fill="#2E2F55">
+                                <tspan x="18" y="33.6">课程内容</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="18" y="128.4" width="62.4" height="30" rx="3.6"></rect>
+                            <text id="提交" font-family="PingFangSC-Regular, PingFang SC" font-size="14.4" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="34.8" y="148.2">提交</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(212.235114, 129.500000) rotate(-345.000000) translate(-212.235114, -129.500000) translate(89.735114, 29.000000)">
+                            <g id="Rectangle" transform="translate(122.660624, 100.578511) rotate(-6.000000) translate(-122.660624, -100.578511) ">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <path d="M28,53.2 L204.4,53.2 L204.4,64 L28,64 L28,53.2 Z M28,90.4 L204.4,90.4 L204.4,101.2 L28,101.2 L28,90.4 Z M28,108.4 L145.6,108.4 L145.6,119.2 L28,119.2 L28,108.4 Z M28,71.2 L168.4,71.2 L168.4,82 L28,82 L28,71.2 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程内容" font-family="PingFangSC-Regular, PingFang SC" font-size="16.8" font-weight="normal" fill="#2E2F55">
+                                <tspan x="28" y="37.6">课程内容</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="28" y="132.4" width="62.4" height="30" rx="3.6"></rect>
+                            <text id="提交" font-family="PingFangSC-Regular, PingFang SC" font-size="14.4" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="44.8" y="152.2">提交</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(54.474706, 33.171015)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <path d="M18,49.2 L194.4,49.2 L194.4,60 L18,60 L18,49.2 Z M18,86.4 L194.4,86.4 L194.4,97.2 L18,97.2 L18,86.4 Z M18,104.4 L135.6,104.4 L135.6,115.2 L18,115.2 L18,104.4 Z M18,67.2 L158.4,67.2 L158.4,78 L18,78 L18,67.2 Z" id="Combined-Shape" fill="#EFEEF4"></path>
+                            <text id="课程问卷" font-family="PingFangSC-Regular, PingFang SC" font-size="16.8" font-weight="normal" fill="#2E2F55">
+                                <tspan x="18" y="33.6">课程问卷</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#6E81EB" x="18" y="128.4" width="62.4" height="30" rx="3.6"></rect>
+                            <text id="提交" font-family="PingFangSC-Regular, PingFang SC" font-size="14.4" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="34.8" y="148.2">提交</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

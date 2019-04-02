@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>time</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-529.000000, -1797.000000)" fill-rule="nonzero">
+            <g id="path" transform="translate(100.000000, 1354.000000)">
+                <g id="wechat" transform="translate(312.000000, 165.000000)">
+                    <g id="time" transform="translate(116.000000, 277.000000)">
+                        <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8,1 C4.14,1 1,4.14 1,8 C1,11.86 4.14,15 8,15 C11.86,15 15,11.86 15,8 C15,4.14 11.86,1 8,1 Z M8,13.99552 C4.694,13.99552 2.00448,11.30552 2.00448,8 C2.00448,4.694 4.694,2.00448 8,2.00448 C11.30552,2.00448 13.99552,4.694 13.99552,8 C13.99552,11.30552 11.30552,13.99552 8,13.99552 L8,13.99552 Z M10.49952,8 L8,8 L8,4.50104 C8,4.22344 7.77752,3.99904 7.5,3.99904 C7.22248,3.99904 7,4.224 7,4.50104 L7,8.5 C6.99961609,8.63272557 7.05217122,8.7601257 7.14602276,8.85397724 C7.2398743,8.94782878 7.36727443,9.00038391 7.5,9 L10.49952,9 C10.77696,9 11.00152,8.77752 11.00152,8.5 C11.00152,8.22248 10.77696,8 10.49952,8 Z" id="Shape" fill="#2E2F55" opacity="0.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

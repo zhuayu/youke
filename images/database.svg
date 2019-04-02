@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>database</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.3080357%" y1="12.8720238%" x2="80.8673469%" y2="91.4275085%" id="linearGradient-1">
+            <stop stop-color="#03ACFA" offset="0%"></stop>
+            <stop stop-color="#2543E0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="132.919072%" y1="150.740132%" x2="43.565072%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#DDF2FF" offset="0%"></stop>
+            <stop stop-color="#F2FCFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M55.5,23 L28.3571428,23 C27.6064732,23 27,23.6064732 27,24.3571429 L27,33.8571429 L56.8571428,33.8571429 L56.8571428,24.3571429 C56.8571428,23.6064732 56.2506696,23 55.5,23 Z M32.4285714,30.125 C31.4912946,30.125 30.7321428,29.3658482 30.7321428,28.4285714 C30.7321428,27.4912946 31.4912946,26.7321428 32.4285714,26.7321429 C33.3658482,26.7321429 34.125,27.4912947 34.125,28.4285714 C34.125,29.3658482 33.3658482,30.125 32.4285714,30.125 Z M27,59.6428571 C27,60.3935268 27.6064732,61 28.3571428,61 L55.5,61 C56.2506696,61 56.8571429,60.3935268 56.8571428,59.6428571 L56.8571428,50.1428571 L27,50.1428571 L27,59.6428571 Z M32.4285714,53.875 C33.3658482,53.875 34.125,54.6341518 34.125,55.5714286 C34.125,56.5087054 33.3658482,57.2678572 32.4285714,57.2678571 C31.4912946,57.2678571 30.7321428,56.5087053 30.7321428,55.5714286 C30.7321428,54.6341518 31.4912946,53.875 32.4285714,53.875 Z M27,47.4285714 L56.8571428,47.4285714 L56.8571428,36.5714286 L27,36.5714286 L27,47.4285714 L27,47.4285714 Z M32.4285714,40.3035714 C33.3658482,40.3035714 34.125,41.0627232 34.125,42 C34.125,42.9372768 33.3658482,43.6964286 32.4285714,43.6964286 C31.4912946,43.6964286 30.7321428,42.9372768 30.7321428,42 C30.7321428,41.0627232 31.4912946,40.3035714 32.4285714,40.3035714 Z" id="path-3"></path>
+        <filter x="-23.4%" y="-13.2%" width="146.9%" height="136.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.184313725   0 0 0 0 0.333333333  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="class" transform="translate(-1131.000000, -1566.000000)" fill-rule="nonzero">
+            <g id="path" transform="translate(100.000000, 1354.000000)">
+                <g id="data" transform="translate(935.000000, 165.000000)">
+                    <g id="database" transform="translate(91.000000, 42.000000)">
+                        <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="84" height="84"></rect>
+                        <path d="M41.75,78.5 C21.4535354,78.5 5,62.0464646 5,41.75 C5,21.4535354 21.4535354,5 41.75,5 C62.0464646,5 78.5,21.4535354 78.5,41.75 C78.5,62.0464646 62.0464646,78.5 41.75,78.5 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

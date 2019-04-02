@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="570px" viewBox="0 0 450 570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Chiffre</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="450" height="570" rx="10"></rect>
+        <filter x="-5.0%" y="-3.9%" width="110.0%" height="107.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.185546875 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage" transform="translate(-723.000000, -825.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1400" height="4650"></rect>
+            <g id="top" transform="translate(-151.000000, 176.000000)" fill="#F4F6FF">
+                <path d="M301.921836,66 L1318.58829,66 C1601.82119,211.242019 1673.62254,403.661898 1533.99233,643.259639 C1324.54702,1002.65625 1068.55483,733.515625 891.164204,1017.125 C713.773579,1300.73438 454.546656,1284.04533 252.125142,990.223327 C117.177466,794.341991 133.776364,486.267549 301.921836,66 Z" id="wave"></path>
+            </g>
+            <g id="corperate" transform="translate(56.000000, 743.000000)">
+                <g id="Chiffre" transform="translate(614.000000, 82.000000)">
+                    <g id="Group-4" transform="translate(53.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <use fill="#6E81EB" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <g id="Group-6" transform="translate(53.000000, 0.000000)">
+                        <path d="M450,22 L450,104 L375,63 L450,22 Z M450,106 L450,191 L375,148.5 L450,106 Z" id="Combined-Shape" fill="#455BD6"></path>
+                        <g id="Group-4" transform="translate(0.000000, 41.000000)">
+                            <path d="M65,0.00279788838 L65,125.997202 C64.7996043,125.999066 64.5989856,126 64.3981481,126 C29.4968202,126 1.2037037,97.7939392 1.2037037,63 C1.2037037,28.2060608 29.4968202,0 64.3981481,0 C64.5989856,0 64.7996043,0.000934002572 65,0.00279788838 Z" id="Path" fill="#3F55D3" opacity="0.847795759" transform="translate(33.101852, 63.000000) scale(-1, 1) translate(-33.101852, -63.000000) "></path>
+                            <path d="M0.650250657,18.0412303 C24.6765772,19.0144663 43.7222222,38.8403227 43.7222222,63 C43.7222222,87.1596773 24.676577,106.985534 0.650250504,107.958769 L-5.59259259,108.211648 L-5.59259259,17.788351 L0.650250657,18.0412303 Z" id="Path" stroke="#FEFEFE" stroke-width="12" opacity="0.473423549"></path>
+                            <path d="M25.2777778,38.4071738 L25.2777778,87.5928262 C25.077741,87.5975997 24.8771146,87.6 24.6759259,87.6 C11.0477883,87.6 0,76.5862048 0,63 C0,49.4137952 11.0477883,38.4 24.6759259,38.4 C24.8771146,38.4 25.077741,38.4024003 25.2777778,38.4071738 L25.2777778,38.4071738 Z" id="Path" fill="#FEFEFE" opacity="0.440731957" transform="translate(12.638889, 63.000000) scale(-1, 1) translate(-12.638889, -63.000000) "></path>
+                        </g>
+                        <path d="M168,130.725152 L168,1.27484809 C172.225378,0.438601075 176.595189,0 181.068182,0 C185.1414,0 189.129056,0.363704479 193,1.06018722 L193,130.939813 C189.129056,131.636296 185.1414,132 181.068182,132 C176.595189,132 172.225378,131.561399 168,130.725152 L168,130.725152 Z M159,128 C143.52521,122.536407 130.706782,111.455602 123,97.2101927 L123.000003,34.7898021 C130.706782,20.5443984 143.52521,9.46359278 159,4 L159,128 Z M201,4 C203.750468,4.90250062 206.42148,5.97626497 209,7.20845145 L209,125.791568 C206.421483,127.023734 203.750469,128.097499 201,129 L201,4 Z M218,12 C229.567574,20.0192086 238.439387,31.5937724 243,45.1232234 L243,86.8767766 C238.439387,100.406228 229.567574,111.980791 218,120 L218,12 L218,12 Z" id="Shape" fill="#455BD6"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Process" transform="translate(124.000000, 888.000000)"></g>
+        </g>
+    </g>
+</svg>

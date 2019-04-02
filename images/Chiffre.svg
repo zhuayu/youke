@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="570px" viewBox="0 0 450 570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Chiffre</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="450" height="570" rx="10"></rect>
+        <filter x="-5.0%" y="-3.9%" width="110.0%" height="107.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.185546875 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage" transform="translate(-56.000000, -825.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1400" height="4650"></rect>
+            <g id="top" transform="translate(-151.000000, 176.000000)">
+                <path d="M301.921836,66 L1318.58829,66 C1601.82119,211.242019 1673.62254,403.661898 1533.99233,643.259639 C1324.54702,1002.65625 1068.55483,733.515625 891.164204,1017.125 C713.773579,1300.73438 454.546656,1284.04533 252.125142,990.223327 C117.177466,794.341991 133.776364,486.267549 301.921836,66 Z" id="wave" fill="#F4F6FF"></path>
+                <g id="Form" transform="translate(150.500000, 1321.500000) scale(-1, 1) translate(-150.500000, -1321.500000) translate(0.000000, 1144.000000)" fill="#FF9D33" fill-rule="nonzero">
+                    <path d="M89.9043658,57.1019535 L176.388412,57.1808639 C187.64233,57.1911323 196.76287,66.3116728 196.773138,77.5655901 L196.773138,77.5655901 C196.783383,88.7929936 187.690078,97.9029069 176.462675,97.9131511 C176.450309,97.9131624 176.437943,97.9131624 176.425577,97.9131511 L89.9415311,97.8342407 C78.6876137,97.8239723 69.5670732,88.7034319 69.5568048,77.4495145 L69.5568048,77.4495145 C69.5465607,66.2221111 78.6398649,57.1121977 89.8672683,57.1019535 C89.8796342,57.1019422 89.892,57.1019422 89.9043658,57.1019535 Z" id="Rectangle-2" transform="translate(133.164972, 77.507552) rotate(-45.000000) translate(-133.164972, -77.507552) "></path>
+                </g>
+            </g>
+            <g id="corperate" transform="translate(56.000000, 743.000000)">
+                <g id="Chiffre" transform="translate(0.000000, 82.000000)">
+                    <g id="Rectangle-3" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FBBB4E" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-5">
+                        <path d="M450,104 L450,155.513225 C443.246351,158.401266 435.809878,160 428,160 C397.072054,160 372,134.927946 372,104 L450,104 Z" id="Path" fill="#FA982B" fill-rule="nonzero"></path>
+                        <path d="M450.000001,104 L372,104 C372,73.072054 397.072054,48 428,48 C435.809878,48 443.246351,49.598734 450.000001,52.4867836 L450.000001,104 Z" id="Path" fill="#EC7621" fill-rule="nonzero"></path>
+                        <path d="M113.998312,8.73023875e-13 C113.729434,39.8105154 81.3738455,72 41.5,72 C26.065114,72 11.7567709,67.176696 -2.82698309e-11,58.9551172 L-7.10542736e-15,10 C-7.78178111e-15,4.4771525 4.4771525,1.01453063e-15 10,0 L113.998312,0 Z" id="Combined-Shape" fill="#EC7621" fill-rule="nonzero"></path>
+                        <polygon id="Rectangle" fill="#FA982B" transform="translate(231.500000, 104.500000) scale(1, -1) translate(-231.500000, -104.500000) " points="199 72 264 137 199 137"></polygon>
+                        <polygon id="Rectangle" fill="#FFA33E" transform="translate(102.500000, 104.500000) scale(1, -1) rotate(-180.000000) translate(-102.500000, -104.500000) " points="70 72 135 137 70 137"></polygon>
+                        <polygon id="Rectangle" fill="#FA982B" points="134 7 199 72 134 72"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="Process" transform="translate(124.000000, 888.000000)"></g>
+        </g>
+    </g>
+</svg>
